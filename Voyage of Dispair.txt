@@ -1,0 +1,106 @@
+Voyage of Despair
+
+Step 1: Grab the sentinel artifact
+Step 2: Open Pack-a-Punch
+	-drain water in engine room
+	-drain water in cargo hold
+Step 3: Find 4 symbols with respective clock times
+	http://codzombies.info/voyage/
+		-Mail Rooms under stairs
+		-Bridge Inside captain's desk
+		-Upper Grand Staircase above door on left
+		-1st Class Lounge left of M.Box (clock on fireplace)
+		-Galley on cabinet 
+		-3rd Class Berths Behind luggage on staircase
+	Write times with symbols as ordered pair I.E. 11:45 is (11,9)
+		▲(line) Air: 
+		△       Fire:
+		▼(line) Earth:
+		▽       Water:
+	Input minute number into dials on the Bridge
+	
+	Insert hour number to dials on the poop deck
+		Left of wheel - Air
+		Right of wheel - Earth
+		Lower Left dial - Fire
+		Upper Right dial - Water
+Step 4: Element outlets
+	-State Rooms, left from spawn
+	-Upper Grand Staircase, left wall
+	-1st Class Lounge, left of Zeus statue
+	-Dining Hall, Back of wall
+	-Aft Deck, Through the Zombie Spawn
+	-3rd Class Berths, bottom of stairs
+	
+	Kill respective zombies
+	Acid, Water, Electric, Fire
+	
+	Acid: survive
+	-kill acid with kraken for heart
+	Water: survive
+	-water levels will rise
+	Fire: survive
+	-Run up to catwalk for easy survival
+Step 5: Leaky pipes
+	Convert Kraken to Acid Kraken
+	go to turbine room and shoot 6 blue steaming pipes so they leak water
+	water will rise
+	Pack-a-Punch the artifact
+		If Pack-a-Punch isn't there, end the round
+Step 6: interstellar
+	find 9 symbols around the map
+		1: vent in spawn
+		2: As you enter Mail rooms
+		3: State rooms, bathroom behind plant
+		4: Bridge, side of cabinet
+		5: Lower Grand Staircase, wall opposite of dining hall
+		6: Millionaire suites, Below desk
+		7: Aft Deck, in the life preserver
+		8: Engine room, on floor in front of Odin perk
+		9: Below catwalk in boiler room (must prone)
+	go to Cargo hold and watch solar sequence (inf zombies)
+			https://bit.ly/2Idnv7i
+		Sun (the sun)
+		Mercury (Small Purple)
+		Venus (Orange)
+		Moon (Cheese)
+		Mars (Red)
+		Jupiter (Brown)
+		Saturn (Yellow, Rings)
+		Uranus (Big Purple)
+		Neptune (Blue, in the water)
+	Shoot the planets out of existence
+			https://bit.ly/2D9C9IO
+		Sun - Spawn, on the camera next to fast travel
+		Mercury - Mail rooms, on cart
+		Venus - Millionaire suites
+		Moon - Staircase, widow before dining hall
+		Mars - boiler room catwalk
+		Jupiter -  Engine room, floating on staircase
+		Saturn - Bridge, in a chair
+		Uranus - State rooms, pile of luggage in bathroom
+		Neptune - Aft Deck, on boat
+Step 7: Sun Challenge
+	Time trail start when picking up the sun orb
+	all pathways leading to poop deck are blocked
+	max ammo spawns halfway and blight father spawns second to last
+	after breaking last barrier, boss portal will spawn
+
+Boss Fight Phase 1
+	kill all the zombies
+	Flash, grab max ammo and carpenter at end of boat
+Boss Fight Phase 2
+	Kill all the zombies
+	Flash, grab max ammo and carpenter at turbine room
+Boss Fight Phase 3
+	Boss fires laser down hall
+	this is the only time you can damage it in this phase
+	flash, in center of the hall
+Boss Fight Phase 4
+	Same as before
+	flash, poop deck side
+Boss Fight Phase 5
+	Focus the boss
+	Stun the boss during its charged shot or be insta downed
+	
+	
